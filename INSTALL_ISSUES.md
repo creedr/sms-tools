@@ -19,10 +19,14 @@ Download the **pygame-1.9.1release.tar.gz** file from [pygame.org](http://www.py
 
 From the terminal change to the Downloads directory.
 Let's move this .tar.gz to your Anaconda directory with the commands
-		mv pygame-1.9.1release.tar.gz ~/anaconda/pkgs
+```````````
+mv pygame-1.9.1release.tar.gz ~/anaconda/pkgs
+```````````
 
 Now navigating to the **~/anaconda/pkgs** directory, extract the contents of the archive with the command
-		tar -zxvf pygame-1.9.1release.tar.gz
+````````
+tar -zxvf pygame-1.9.1release.tar.gz
+````````
 
 Now 
 		cd pygame-1.9.1release.tar.gz
