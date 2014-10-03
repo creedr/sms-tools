@@ -5,15 +5,14 @@ For getting software installed and running properly for the Coursera Class **Aud
 Linux Mint 13 
 amd64 architecture
 
-## Python Distribution
+### Python Distribution
 [Anaconda 2.1](https://store.continuum.io/cshop/anaconda/)
 
-## Issues
+### Issues
 1. sms-tools has problem with importing pygame -- seems to be problem with Anaconda
 2. SonicVisualiser 2.4.x has several dependency issues that I couldn't resolve
 
-To fix the **pygame** problem:
-============================
+### To fix the **pygame** problem:
 
 Download the **pygame-1.9.1release.tar.gz** file from [pygame.org](http://www.pygame.org/download.shtml)
 
@@ -67,8 +66,7 @@ Hopefully this will resolve any pygame import errors with the Anaconda distribut
 
 
 
-To fix the SonicVisualiser 2.4.x install problem:
-===========================================
+### To fix the SonicVisualiser 2.4.x install problem:
 
 As of 10/02/2014 for the computer arcitecture and system mentioned above, the easiest workaround to this problem was to install an earlier version of SonicVisualiser.
 
