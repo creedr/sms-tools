@@ -9,10 +9,9 @@ amd64 architecture
 [Anaconda 2.1](https://store.continuum.io/cshop/anaconda/)
 
 ## Issues
-1) sms-tools has problem with importing pygame -- seems to be problem with Anaconda
-2) SonicVisualiser 2.4.x has several dependency issues that I couldn't resolve
+1. sms-tools has problem with importing pygame -- seems to be problem with Anaconda
+2. SonicVisualiser 2.4.x has several dependency issues that I couldn't resolve
 
-## Fixes
 To fix the **pygame** problem:
 ============================
 
